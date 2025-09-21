@@ -1,0 +1,28 @@
+.stacks {
+    margin-top: 20px;
+
+}
+
+.stacks h3 {
+    font-size: 18px;
+
+}
+
+.stacks ul {
+    list-style: none;
+
+}
+
+.stacks ul li {
+    border: 1px salid black;
+    border-radius: 3px;
+    padding: 7px 20px;
+    margin-top: 10px;
+
+}
+
+.html {
+    background-color: orange;
+    color: white;
+    font-weight: 600;
+}

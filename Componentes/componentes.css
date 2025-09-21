@@ -1,0 +1,15 @@
+header {
+    width: 100px;
+    height: 60px;
+    border-bottom: 1px solid rgb(18, 16, 16);
+
+   /*--| Alineación */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+header span {
+    font-size: 40px;
+}
